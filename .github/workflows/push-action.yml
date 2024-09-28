@@ -20,4 +20,4 @@ jobs:
         uses: docker/build-push-action@v6
         with:
             push: true
-            tags: sreeram91/expressjs-app
+            tags: sreeram91/expressjs-app:latest
